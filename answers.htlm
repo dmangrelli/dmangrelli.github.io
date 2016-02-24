@@ -1,0 +1,7 @@
+The boxes get smaller than before
+They both float next each-other to the right in the other order
+They both float next to each-other to the left side of the page
+The boxes set to the right you cant see them when you make the browser window smaller
+When setting the divs to right and left there is a big space left in between them
+Div1 goes all the way across the page unlike Div2 that stays the same in a horizontal
+The Divs get longer in size to fit with in the window after you resize it.
