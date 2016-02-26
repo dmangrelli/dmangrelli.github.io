@@ -1,0 +1,66 @@
+body{
+  background-color: yellow;
+  font-style: normal;
+  font-family:inherit;
+  color: #6C47A6;
+}
+h1{
+  font-family: fantasy;
+  font-style: oblique;
+  color: #4CA633;
+}
+h2{
+  font-family: sans-serif;
+  font-style: oblique;
+  color: #6AB8C6;
+}
+h3{
+  font-family: serif;
+  color: green;
+}
+h4{
+  font-family: cursive;
+  color: #BC1E3D;
+}
+h5{
+  font-family: inherit;
+  color:#F9F9F9;
+  font-weight: bolder;
+}
+h6{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #064654;
+}
+
+#container1 {
+  width: 50%;
+}
+
+#container2 {
+  width: 200px;
+}
+
+#margin1 {
+  border: 1px solid black;
+  margin: 10%;
+}
+
+#margin2 {
+  border: 20px solid black;
+  margin: 5px 10%;
+  float: left;
+  background-color: #BC1E3D
+}
+
+#margin3 {
+  border: 2px solid pink;
+  margin: 10%;
+  float: left;
+  padding: 3em 2em;
+}
+
+#container3 {
+  float: right;
+  width: 50%
+}
