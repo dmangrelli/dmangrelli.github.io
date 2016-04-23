@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+#container2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+}
+#container1 {
+  width: 100%;
+  padding: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h1 {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  font-size: 300%;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  margin: auto;
+}
+h3 {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  margin: auto;
+}
+#Header1 {
+  font-size: 150%;
+  background-color: grey;
+  text-align: left;
+  width: 50%;
+  float: left;
+}
+#Header2 {
+  font-size: 150%;
+  background-color: grey;
+  text-align: right;
+  width: 50%;
+  float: right;
+}
+#Mission {
+  float: left;
+  width: 50%;
+  font-family: 'Quicksand', sans-serif;
+  margin: auto;
+}
+#Events {
+  float: right;
+  width: 50%;
+  font-family: 'Quicksand', sans-serif;
+}
+#Menucolor {
+  background-color: white;
+}
+#Appetizers {
+  font-size: 150%
+  float: right;
+  width: 75%;
+  font-family: 'Quicksand', sans-serif;
+}
+#Soups {
+  float: left;
+  width:75%;
+  font-family: 'Quicksand', sans-serif;
+}
+#Sandwiches {
+  float: left;
+  width: 75%;
+  font-family: 'Quicksand', sans-serif;
+}
+#BeanRice {
+  float: left;
+  width: 75%;
+  font-family: 'Quicksand', sans-serif;
+}
+#Map {
+  float: left;
+}
+p {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  margin: auto;
+  font-size: 170%;
+}
+h4 {
+  font-size: 150%;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+h5 {
+  font-size: 150%;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+#Dates {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  margin: auto;
+  font-size: 150%;
+  padding-top: 20px;
+  text-align: center;
+}
+#Image {
+  text-align: center;
+}
