@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+h1 {
+  text-align: center;
+  color: #FFA45E;
+  font-size: 300%;
+  margin: auto;
+  font-weight: normal;
+  font-family: 'Libre Baskerville', serif;
+}
+body {
+  background-color: #6AB8C6;
+}
+#container1 {
+width: 75%;
+}
+#row {
+  width: 50%;
+}
+#row2 {
+  width: 50%;
+}
+#container2 {
+  padding-top: 20px;
+}
+#container3{
+  padding-left: 5px;
+  padding-right: 5px;
+}
